@@ -1,0 +1,2 @@
+D:\C++ projects\Poker\Cards\Debug\Cards.exe
+D:\C++ projects\Poker\Cards\Debug\Cards.pdb
